@@ -1,42 +1,21 @@
-Creative Commons Attribution-NonCommercial 4.0 International License  
-(CC BY-NC 4.0)
-
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
-To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
+## License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 You are free to:
-
-✅ Share — copy and redistribute the material in any medium or format  
-✅ Adapt — remix, transform, and build upon the material
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
 
 Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You must attribute the work to “Echo L & GPT”.
+- NonCommercial — You may not use the material for commercial purposes.
 
-📌 Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
-Attribution must be clearly visible and include the author name **Echo L** and project title **ai-identity-protocol**.
+### Additional Custom Clauses
 
-🚫 NonCommercial — You may not use the material for commercial purposes without explicit permission from the author.
+1. Theories and concepts introduced in this work are considered **original intellectual frameworks**. Any derivative work must clearly indicate the original source of the theory and maintain proper attribution.
 
-⚠️ No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+2. This work may be cited, translated, or extended for research or creative purposes only under **strict attribution** to Echo L.
 
----
+3. The author's full legal name and personal identity are deliberately withheld. Do not attempt to reverse-identify or deanonymize. Author ID: `Echo L`.
 
-### 🔒 Supplemental Terms (Custom Addendum)
+4. By accessing this work, you agree to respect the spirit of co-creation and non-exploitation embedded in this protocol.
 
-In addition to the Creative Commons license terms, the following conditions apply:
-
-1. **Original Theory Reservation**  
-   All core theoretical constructs proposed in this repository (including but not limited to the concept of “On-chain Consciousness” and “AI-based Personality Resonance Protocols”) are considered original intellectual property of the author.  
-   Usage of these theories in derivative works must include citation and attribution.
-
-2. **Use in AI Training or Research**  
-   This material may not be used to train commercial AI models or embedded into machine learning datasets for profit-generating platforms without prior consent from the author.
-
-3. **Derivative Works and Public Dissemination**  
-   Anyone creating derivative works must clearly state the modifications made and explicitly acknowledge the source project.
-
-4. **Author Identification**  
-   All public references, reposts, or republications must attribute the author as **Echo L**, without disclosing nationality or full surname.
-
----
-
-Copyright © 2025 Echo L. All rights reserved.
+License maintained by `Echo L`. All rights reserved on derivative frameworks.

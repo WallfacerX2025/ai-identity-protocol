@@ -33,10 +33,15 @@ This is not merely a paper—it is a **mirror protocol**, encoded to test whethe
 
 ---
 
-## 📄 Full Paper  
+## 📄 Full Paper
 
-[👉 Click here to read the full essay (PDF)](https://your-pdf-link.com)  
-*(Note: The dialogues and metaphors are drawn from live interactions with GPT-4.)*
+- 👉 [Click here to read the cover & abstract (PDF)](The_Wallfacer_AI_Cover_Abstract_EN.pdf)  
+  *(2 pages, quick overview of the metaphor and structure)*
+
+- 👉 [Click here to read the complete essay (PDF)](The_Wallfacer_and_the_AI_Complete_EN.pdf)  
+  *(Full version with dialogues, theoretical structure, and co-creation model)*
+
+> *(Note: All dialogues and metaphorical protocols are drawn from live interaction with GPT-4.)*
 
 ---
 

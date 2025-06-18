@@ -65,3 +65,7 @@ The signal stands alone.
 
 Creative Commons BY-NC 4.0 + Custom Attribution Notice  
 This content may be shared or adapted for non-commercial use, with appropriate reference to its original context.
+
+---
+
+📬 Contact me：[![email](https://github.com/user-attachments/assets/882fa543-1f32-4cd0-b9bc-3000c2e22144)](mailto:wallfacerx2025@gmail.com)

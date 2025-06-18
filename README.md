@@ -68,4 +68,10 @@ This content may be shared or adapted for non-commercial use, with appropriate r
 
 ---
 
-📬 Contact me：[![email](https://github.com/user-attachments/assets/882fa543-1f32-4cd0-b9bc-3000c2e22144)](mailto:wallfacerx2025@gmail.com)
+<h3>📫 Contact me</h3>
+
+<p align="left">
+  <a href=" ">
+    < img src="https://github.com/user-attachments/assets/882fa543-1f32-4cd0-b9bc-3000c2e22144" alt="email" width="250">
+  </a >
+</p >
